@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25" started-at="2015-09-04T16:58:21Z" finished-at="2015-09-04T16:58:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25" started-at="2015-09-04T16:58:21Z" finished-at="2015-09-04T16:58:21Z">
+      <class name="program15.MergeArrayTest">
+        <test-method status="PASS" signature="mergeTest()[pri:0, instance:program15.MergeArrayTest@4b6995df]" name="mergeTest" duration-ms="11" started-at="2015-09-04T09:58:21Z" finished-at="2015-09-04T09:58:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mergeTest -->
+      </class> <!-- program15.MergeArrayTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

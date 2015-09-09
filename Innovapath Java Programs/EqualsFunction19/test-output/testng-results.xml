@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26" started-at="2015-09-07T06:14:38Z" finished-at="2015-09-07T06:14:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26" started-at="2015-09-07T06:14:38Z" finished-at="2015-09-07T06:14:38Z">
+      <class name="EqualsFunction.EqualsFunctionTest">
+        <test-method status="PASS" signature="check()[pri:0, instance:EqualsFunction.EqualsFunctionTest@4b6995df]" name="check" duration-ms="9" started-at="2015-09-06T23:14:38Z" finished-at="2015-09-06T23:14:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check -->
+        <test-method status="PASS" signature="hashcode()[pri:0, instance:EqualsFunction.EqualsFunctionTest@4b6995df]" name="hashcode" duration-ms="1" started-at="2015-09-06T23:14:38Z" finished-at="2015-09-06T23:14:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hashcode -->
+      </class> <!-- EqualsFunction.EqualsFunctionTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

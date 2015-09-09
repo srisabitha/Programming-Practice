@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25" started-at="2015-09-07T05:29:49Z" finished-at="2015-09-07T05:29:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25" started-at="2015-09-07T05:29:49Z" finished-at="2015-09-07T05:29:49Z">
+      <class name="Palindrome.PalindromesTest">
+        <test-method status="PASS" signature="isPalindrometest()[pri:0, instance:Palindrome.PalindromesTest@4b6995df]" name="isPalindrometest" duration-ms="10" started-at="2015-09-06T22:29:49Z" finished-at="2015-09-06T22:29:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isPalindrometest -->
+        <test-method status="PASS" signature="isPalindrometest1()[pri:0, instance:Palindrome.PalindromesTest@4b6995df]" name="isPalindrometest1" duration-ms="0" started-at="2015-09-06T22:29:49Z" finished-at="2015-09-06T22:29:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isPalindrometest1 -->
+      </class> <!-- Palindrome.PalindromesTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28" started-at="2015-09-09T16:38:41Z" finished-at="2015-09-09T16:38:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28" started-at="2015-09-09T16:38:41Z" finished-at="2015-09-09T16:38:41Z">
+      <class name="collectionsArraylist.ArraylistTest">
+        <test-method status="PASS" signature="addElement()[pri:0, instance:collectionsArraylist.ArraylistTest@4b6995df]" name="addElement" duration-ms="10" started-at="2015-09-09T09:38:41Z" finished-at="2015-09-09T09:38:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addElement -->
+        <test-method status="PASS" signature="testSearchList()[pri:0, instance:collectionsArraylist.ArraylistTest@4b6995df]" name="testSearchList" duration-ms="0" started-at="2015-09-09T09:38:41Z" finished-at="2015-09-09T09:38:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchList -->
+      </class> <!-- collectionsArraylist.ArraylistTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
